@@ -14,7 +14,7 @@
     skos:topConceptOf <> .
 
 <further>
-    skos:prefLabel "Further Education"@en, "Weiterbildung"@de ;
+    skos:prefLabel "Further pchbz Education"@en, "Weiterbildung"@de ;
     a skos:Concept ;
     skos:inScheme <> ;
     skos:topConceptOf <> .
