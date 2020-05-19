@@ -8,7 +8,7 @@
     skos:hasTopConcept <earlyChildhood>, <further>, <general>, <higherEd>, <school>, <vocational> .
 
 <earlyChildhood>
-    skos:prefLabel "pchbz Childhood Education"@en, "Frühkindliche Erziehung"@de ;
+    skos:prefLabel "pchbz tudu Childhood Education"@en, "Frühkindliche Erziehung"@de ;
     a skos:Concept ;
     skos:inScheme <> ;
     skos:topConceptOf <> .
