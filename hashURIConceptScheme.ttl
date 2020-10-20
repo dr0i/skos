@@ -20,4 +20,4 @@
 :concept3
   a skos:Concept ;
   skos:topConceptOf :scheme ;
-  skos:prefLabel "Concept 3"@de .
+  skos:prefLabel "Concept 9:10"@de .
